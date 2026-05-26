@@ -87,7 +87,7 @@
 ---
 
 ## Próximamente
-- comando pedir:<var=pregunta>
+- comando nedir:<yar=pregunta>
 - sistema de funciones reales
 - bucles
 - imports
